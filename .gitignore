@@ -1,0 +1,18 @@
+# Ignore environment variable files
+*.env
+
+# Ignore node_modules
+node_modules/
+backend/node_modules/
+client/node_modules/
+backend/.env
+backend/package-lock.json
+client/.env
+client/package-lock.json
+
+
+# Ignore uploaded resumes
+uploads/
+
+# Ignore log files
+*.log
